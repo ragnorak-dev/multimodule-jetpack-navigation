@@ -2,7 +2,6 @@ package com.ragnorak.jpnm.feature1
 
 import androidx.navigation.NavController
 import androidx.navigation.NavGraphBuilder
-import androidx.navigation.NavHostController
 import androidx.navigation.compose.composable
 import com.ragnorak.jpnm.navigation.Feature1
 

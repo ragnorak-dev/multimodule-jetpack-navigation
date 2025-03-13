@@ -12,7 +12,7 @@ import androidx.navigation.NavController
 import com.ragnorak.jpnm.navigation.Feature2
 
 @Composable
-fun Feature1Screen(
+internal fun Feature1Screen(
     navController: NavController
 ) {
 

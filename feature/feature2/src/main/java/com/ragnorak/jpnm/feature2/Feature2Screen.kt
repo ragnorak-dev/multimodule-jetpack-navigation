@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavController
 
 @Composable
-fun Feature2Screen(
+internal fun Feature2Screen(
     navController: NavController
 ) {
     Box(
