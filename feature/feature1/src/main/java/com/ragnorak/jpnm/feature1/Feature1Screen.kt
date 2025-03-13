@@ -8,12 +8,12 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.navigation.NavHostController
+import androidx.navigation.NavController
 import com.ragnorak.jpnm.navigation.Feature2
 
 @Composable
 fun Feature1Screen(
-    navController: NavHostController
+    navController: NavController
 ) {
 
     Box(
